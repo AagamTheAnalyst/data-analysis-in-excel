@@ -19,7 +19,7 @@ In this project, I worked with an employee dataset to answer real-world business
 
 For a complete breakdown of this project, including formula explanations, syntax, and methodology, please read the full article on Medium:
 
-👉 [Step-by-step Guide]()
+👉 [Step-by-step Guide](https://medium.com/@aagamtheanalyst/data-analysis-using-excel-functions-formulas-8bb746a22af0)
 
 ## Summary of Work
 
