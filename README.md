@@ -23,16 +23,21 @@ For a complete breakdown of this project, including formula explanations, syntax
 
 ## Summary of Work
 
-Functions and formulas used in this project:
+### Functions and formulas used in this project:
 
-- ‘COUNTIFS()’
-- ‘SUMIFS()’
-- ‘AVERAGEIFS()’
-- ‘MIN()’
-- ‘MAX()’
-- ‘LARGE()’
-- ‘FILTER()’
-- ‘CHOOSECOLS()’
+- Lookup & Reference: VLOOKUP(), XLOOKUP(), INDEX(), MATCH()
+
+- Aggregation: COUNTIFS(), SUMIFS(), AVERAGEIFS(), MIN(), MAX(), Median(), MINIFS(), MAXIFS(), LARGE()
+
+- Filtering & Sorting: FILTER(), SORT(), TAKE()
+
+- Text Handling: TEXTJOIN(), LEFT()
+
+- Error Handling: IFERROR()
+
+- Date Functions: YEAR(), MONTH()
+
+- Operators: * (used inside formulas)
 
 Dynamic formulas ensure that the analysis and reports update automatically with any changes to the dataset.
 
@@ -45,6 +50,6 @@ Dynamic formulas ensure that the analysis and reports update automatically with 
 
 ---
 
-## What's Next
+### What's Next
 
 Stay tuned for new projects, and thank you for checking out this one!
